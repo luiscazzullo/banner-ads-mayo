@@ -1,0 +1,115 @@
+a {
+	text-decoration: none;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Verdana, sans-serif;
+}
+
+.container {
+	background-image: url(../images/background.jpg);
+	border: 1px solid gray;
+	height: 598px;
+	position: relative;
+	width: 118px;
+}
+
+.title {
+	background-color: black;
+	color: white;
+	font-size: 10px;
+	font-weight: bold;
+	height: 14px;
+	padding: 3px 0px;
+	text-align: center;
+	width: 119px;
+}
+
+
+.c3-container {
+	bottom: 297px;
+	position: absolute;
+}
+
+.cta-oferta {
+	border: 1px solid transparent;
+  border-radius: 0px 10px 0px;
+  background-color: white;
+  font-weight: bold;
+  height: 37px;
+  left: 9px;
+  padding: 5px 10px;
+  position: absolute;
+  top: 50px;
+  width: 76px;
+  opacity: 1;
+}
+
+.ofertas {
+	color: #d23163;
+}
+
+.de-mayo {
+	color: #0b033f;
+}
+
+.car-name {
+	bottom: 364px;
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+	position: absolute;
+	text-align: center;
+}
+
+.car-price {
+	bottom: 272px;
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+	left: 9px;
+	position: absolute;
+	text-align: center;
+}
+
+.car-price-2 {
+	bottom: 218px;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+	position: absolute;
+	text-align: center;
+}
+
+.tasa {
+	background-color: #0cbdff;
+	border: 1px solid transparent;
+	border-radius: 10px 0px;
+	bottom: 100px;
+	color: white;
+	font-weight: bold;
+	height: 20px;
+	left: 8px;
+	position: absolute;
+	padding: 10px 0px;
+	text-align: center;
+	width: 100px;
+}
+
+.button-cta {
+	background-image: linear-gradient(to bottom, gray , black);
+	border: 1px solid white;
+	border-radius: 10px;
+	bottom: 27px;
+	left: 7px;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+	height: 15px;
+	padding: 5px 6px;
+	position: absolute;
+	text-align: center;
+	width: 90px;
+}
